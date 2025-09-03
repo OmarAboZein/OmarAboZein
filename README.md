@@ -5,8 +5,6 @@
 
 ---
 
-# Hey, I'm Omar 👋  
-
 🚀 Aspiring AI Engineer | Curious Mind | Lifelong Learner  
 
 ---
