@@ -34,5 +34,5 @@
 
 ## 🌐 Connect With Me ! 
 <a href="mailto:omarabozein@outlook.com"> <img align="left" alt="Visual Studio Code" width="40px" src="https://www.svgrepo.com/show/530453/mail-reception.svg" style="padding-right:10px;" /> </a> 
-<a href="linkedin.com/in/omarabozein"> <img align="left" alt="Visual Studio Code" width="40px" src="https://www.svgrepo.com/show/448234/linkedin.svg" style="padding-right:10px;" /> </a> 
-<a href="instagram.com/omarabozein_"> <img align="left" alt="Visual Studio Code" width="40px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" style="padding-right:10px;" /> </a>
+<a href="https://linkedin.com/in/omarabozein"> <img align="left" alt="Visual Studio Code" width="40px" src="https://www.svgrepo.com/show/448234/linkedin.svg" style="padding-right:10px;" /> </a> 
+<a href="https://www.instagram.com/omarabozein_/"> <img align="left" alt="Visual Studio Code" width="40px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" style="padding-right:10px;" /> </a>
