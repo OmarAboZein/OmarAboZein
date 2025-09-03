@@ -22,17 +22,17 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;"/>
 
----
+<br clear="both" /> 
 
-## 📌 Current Focus  
+
+## 📌 Current Focus
 - 🌱 Diving into deep learning & MLOps  
 - 🤖 Building AI side projects 
 - 🎯 Preparing for my first AI/ML engineering role  
 
 ---
 
-## 🌐 Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarabozein/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabozein@outlook.com)  
-
+## 🌐 Connect With Me ! 
+<a href="mailto:omarabozein@outlook.com"> <img align="left" alt="Visual Studio Code" width="40px" src="https://www.svgrepo.com/show/530453/mail-reception.svg" style="padding-right:10px;" /> </a> 
+<a href="linkedin.com/in/omarabozein"> <img align="left" alt="Visual Studio Code" width="40px" src="https://www.svgrepo.com/show/448234/linkedin.svg" style="padding-right:10px;" /> </a> 
+<a href="instagram.com/omarabozein_"> <img align="left" alt="Visual Studio Code" width="40px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" style="padding-right:10px;" /> </a>
