@@ -29,7 +29,7 @@
 
 ## 📌 Current Focus  
 - 🌱 Diving into deep learning & MLOps  
-- 🤖 Building AI side projects (and breaking a few along the way)  
+- 🤖 Building AI side projects 
 - 🎯 Preparing for my first AI/ML engineering role  
 
 ---
