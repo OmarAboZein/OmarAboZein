@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**OmarAboZein/OmarAboZein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hey! I’m Omar , an aspiring AI/ML Engineer with a strong passion for building intelligent systems and solving real-world problems with data.
 
 🌱 Currently learning: Machine Learning, Neural Networks, and MLOps best practices
